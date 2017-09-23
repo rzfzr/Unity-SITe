@@ -40,4 +40,10 @@ public class Player : MonoBehaviour {
 		//}
 
 	}
+
+	private void OnCollisionEnter(Collision c) {
+		print("bateu " + c.gameObject.name);
+		Destroy(c.gameObject);
+
+	}
 }
