@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Unity/Template Slides/Dark Theme/MeshObjectInFrontOfSlide/Slide-MeshObjectInFrontOfSlide.unity
+  isLoaded: 1
+  isActive: 1
