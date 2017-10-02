@@ -5,8 +5,9 @@ using UnityEngine.UI;
 
 public class Player : MonoBehaviour {
 
-	[SerializeField]
-	float speed = 10;
+	//[SerializeField]
+	[Range(1f,20f)]
+	public float speed = 10;
 	float speedBoosted = 30;
 	//Rigidbody rb;
 
