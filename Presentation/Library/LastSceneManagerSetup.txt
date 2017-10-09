@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Let's Try Shooter/Scenes/CompletedScenes/RayCastShootComplete.unity
+  isLoaded: 1
+  isActive: 1
