@@ -18,6 +18,7 @@ KeyPress-Displayer(AHK script): https://github.com/TaranVH/2nd-keyboard/tree/mas
 ### Extra Resources:  
 Unity Resources: https://unity3d.com/learn/resources/downloads  
 Shooting with Raycasts: https://unity3d.com/learn/tutorials/lets-try/shooting-with-raycasts  
+Field of View: https://www.youtube.com/watch?v=rQG9aUWarwE  
 Brackeys:  https://www.youtube.com/user/Brackeys/videos  
 Move a Cube: https://www.youtube.com/watch?v=sXQI_0ILEW4   
 Time.deltatime: http://answers.unity3d.com/answers/490715/view.html   
