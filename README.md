@@ -16,6 +16,11 @@ KeyPress-Displayer(AHK script): https://github.com/TaranVH/2nd-keyboard/tree/mas
 
 
 
+### Ideas:
+Game Generator: http://orteil.dashnet.org/gamegen  
+Another one: http://ygd.bafta.org/resources/game-idea-generator  
+Another one: https://scratch.mit.edu/projects/103154312/
+49 Games to Clone: http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/
 
 
 ### Extra Resources:  
