@@ -14,17 +14,21 @@ Blender(3D): https://www.blender.org/download/
 KeyPress-Displayer(AHK script): https://github.com/TaranVH/2nd-keyboard/tree/master/KeyPress-Displayer  
 
 
-
-
 ### Ideas:
+
 Game Generator: http://orteil.dashnet.org/gamegen  
 Another one: http://ygd.bafta.org/resources/game-idea-generator  
 Another one: https://scratch.mit.edu/projects/103154312/
 49 Games to Clone: http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/
 
+### Assets  
 
-### Extra Resources:  
-Unity Resources: https://unity3d.com/learn/resources/downloads  
+Particle pack: https://www.assetstore.unity3d.com/en/#!/content/73777  
+Pro Builder: https://www.assetstore.unity3d.com/en/#!/content/11919  
+
+### Extra Resources:   
+
+Unity Resources: https://unity3d.com/learn/resources/downloads 
 Shooting with Raycasts: https://unity3d.com/learn/tutorials/lets-try/shooting-with-raycasts  
 Field of View: https://www.youtube.com/watch?v=rQG9aUWarwE  
 Brackeys:  https://www.youtube.com/user/Brackeys/videos  
@@ -33,8 +37,9 @@ Time.deltatime: http://answers.unity3d.com/answers/490715/view.html
 Better Jumps: https://www.youtube.com/watch?v=7KiK0Aqtmzc   
 CheatSheets: https://gist.github.com/samsheffield/96608e465091069d15fdaea29457ec85  
 Item Drops: https://www.reddit.com/r/Unity3D/comments/60j39h/simple_solution_to_item_drops/  
-Particle pack: https://www.assetstore.unity3d.com/en/#!/content/73777  
-Pro Builder: https://www.assetstore.unity3d.com/en/#!/content/11919  
+MiniMap: https://www.youtube.com/watch?v=28JTTXqMvOU  
+
+Crowd Behaviours (Navmesh): https://www.youtube.com/watch?v=4Kj6YUPLWCw  
 
 2D Subreddit: https://www.reddit.com/r/Unity2D/  
 3D Subreddit: https://www.reddit.com/r/Unity3D/  
