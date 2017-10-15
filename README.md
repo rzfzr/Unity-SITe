@@ -13,7 +13,6 @@ Blender(3D): https://www.blender.org/download/
 
 KeyPress-Displayer(AHK script): https://github.com/TaranVH/2nd-keyboard/tree/master/KeyPress-Displayer  
 
-
 ### Ideas:
 
 Game Generator: http://orteil.dashnet.org/gamegen  
