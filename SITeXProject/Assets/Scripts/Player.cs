@@ -32,8 +32,8 @@ public class Player : MonoBehaviour {
 	}
 
 	void InitialPosition() {
-		transform.position = new Vector3(0,0,0);
-		print("Centralizado");
+		//transform.position = new Vector3(0,0,0);
+		//print("Centralizado");
 	}
 
 
