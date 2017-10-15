@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class Player : MonoBehaviour {
@@ -83,15 +84,18 @@ public class Player : MonoBehaviour {
 				score += c.gameObject.transform.localScale.x;
 				Destroy(c.gameObject);
 			} else {
-				scoreText.color = Color.red;
-				Destroy(gameObject);
+				GameOver();
 			}
 			//transform.localScale += new Vector3(.5f,.5f,.5f);
 
 		}
+	}
 
+	private void GameOver() {
 
-
+		scoreText.color = Color.red;
+		Destroy(gameObject);//destroy player
+		SceneManager.LoadScene("GameOver");
 	}
 	private void OnCollisionStay(Collision c) {
 		if (c.gameObject.tag == "Boost") {

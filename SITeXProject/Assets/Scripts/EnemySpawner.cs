@@ -6,7 +6,7 @@ public class EnemySpawner : MonoBehaviour {
 
 	public GameObject enemyPrefab;
 	void Start() {
-		InvokeRepeating("Spawn",5f,2f);
+		InvokeRepeating("Spawn",6f,2f);
 	}
 
 	void Spawn() {
