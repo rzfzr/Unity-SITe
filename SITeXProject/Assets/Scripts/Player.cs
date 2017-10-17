@@ -94,6 +94,13 @@ public class Player : MonoBehaviour {
 	private void GameOver() {
 
 		scoreText.color = Color.red;
+
+		if (score > PlayerPrefs.GetFloat("High",0f)) {
+			PlayerPrefs.SetFloat("High",score);
+		}
+		PlayerPrefs.SetFloat("Score",score);
+
+
 		Destroy(gameObject);//destroy player
 		SceneManager.LoadScene("GameOver");
 	}

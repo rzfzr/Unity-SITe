@@ -88,6 +88,8 @@
     <Compile Include="Assets\Scripts\EnemySimpleMovement.cs" />
     <Compile Include="Assets\Scripts\EnemySmart.cs" />
     <Compile Include="Assets\Scripts\EnemySpawner.cs" />
+    <Compile Include="Assets\Scripts\GameOver.cs" />
+    <Compile Include="Assets\Scripts\HighScore.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\RandomSpawner.cs" />
   </ItemGroup>
